@@ -1,0 +1,13 @@
+.idea
+.idea/
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+
+appsettings.Development.json
+appsettings.json
+
+GameAPI/appsettings.Development.json
+GameAPI/appsettings.json
